@@ -40,8 +40,9 @@
 [<img alt="LinkedIn" align="left" width="45px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/LinkedInIcon.svg"/>][linkedin]
 [<img alt="Outlook" align="left" width="48px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/OutlookIcon.svg"/>][outlook]
 [<img alt="Discord" align="left" width="47px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/DiscordIcon.svg"/>][discord]
-[<img alt="Hack The Box" align="left" width="45px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/HackTheBoxIcon.svg"/>][hackthebox]
-[<img alt="Try Hack Me" align="left" width="47px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/TryHackMeIcon.png"/>][tryhackme]
+[<img alt="Hack The Box" align="left" width="48px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/HackTheBoxIcon.svg"/>][hackthebox]
+[<img alt="Try Hack Me" align="left" width="50px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/TryHackMeIcon.png"/>][tryhackme]
+[<img alt="Credly" align="left" width="48px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/CredlyIcon.svg"/>][credly]
 
 <br/><br/><br/><br/><br/><br/>
 
@@ -56,3 +57,4 @@
 [discord]: https://discord.com/users/1111590525066297464
 [hackthebox]: https://app.hackthebox.com/profile/1525863
 [tryhackme]: https://tryhackme.com/p/IbrahimBenHariz
+[credly]: https://www.credly.com/users/ibrahim-ben-hariz
