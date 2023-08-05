@@ -22,6 +22,7 @@
 ## Cybersecurity Projects <img alt="Cybersecurity Projects Icon" width="38px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/CybersecurityProjects.png"/> 
 
 - [**POC Web Scraper**](https://github.com/IbrahimBenHariz/POC-Web-Scraper)
+- [**Cybersecurity Lab**](https://github.com/IbrahimBenHariz/Cybersecurity-Lab)
 
 ## My Tools <img alt="My Tools Icon" width="38px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/MyTools.png"/>
 
