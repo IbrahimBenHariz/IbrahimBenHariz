@@ -30,8 +30,8 @@
 
 ## Various Projects <img alt="Various Projects Icon" width="40px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/VariousProjects.png"/>
 
-- [######################################](https://github.com/IbrahimBenHariz)
-- [######################################](https://github.com/IbrahimBenHariz)
+- **Design & Branding**
+  - [Dribbble](https://dribbble.com/IbrahimBenHariz)
 
 ## Resume & Motivation <img alt="Resume & Motivation Icon" width="40px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/Resume%26Motivation.png"/>
 
