@@ -12,12 +12,12 @@
 
 - [**Google Cybersecurity**](https://github.com/IbrahimBenHariz/CertificationsFiles/blob/main/GoogleCyber.pdf)
   - [Credly](https://www.credly.com/badges/bfab8e60-5006-4268-b879-2e7234998c4b/linked_in_profile)
-  - [Coursera Check](https://www.coursera.org/account/accomplishments/professional-cert/LS32C3P8PSDD)
+  - [Coursera](https://www.coursera.org/account/accomplishments/professional-cert/LS32C3P8PSDD)
 - [**(ISC)² CC**](https://github.com/IbrahimBenHariz/CertificationsFiles/blob/main/ISC%C2%B2%20CC.pdf)
   - [Credly](https://www.credly.com/badges/b7c453e6-d384-42e4-927e-48b4b27b173f/linked_in_profile)
-  - [(ISC)² Check](https://www.isc2.org/MemberVerification?LastName=Ben%20Hariz&MemberNumber=1627566)
+  - [(ISC)²](https://my.isc2.org/s/MemberVerification)
 - [**Blue Team Junior Analyst**](https://github.com/IbrahimBenHariz/CertificationsFiles/blob/main/Blue%20Team%20Junior%20Analyst%20Pathway%20Bundle-btja.pdf)
-- [**TryHackMe Top 4%**](https://tryhackme.com/p/IbrahimBenHariz)
+- [**TryHackMe Top 5%**](https://tryhackme.com/p/IbrahimBenHariz)
 
 ## Cybersecurity Projects <img alt="Cybersecurity Projects Icon" width="38px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/CybersecurityProjects.png"/> 
 
@@ -26,8 +26,7 @@
 
 ## My Tools <img alt="My Tools Icon" width="38px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/MyTools.png"/>
 
-- [######################################](https://github.com/IbrahimBenHariz)
-- [######################################](https://github.com/IbrahimBenHariz)
+- [**WEBEDEx**](https://github.com/IbrahimBenHariz/WEBEDEx)
 
 ## Various Projects <img alt="Various Projects Icon" width="40px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/VariousProjects.png"/>
 
