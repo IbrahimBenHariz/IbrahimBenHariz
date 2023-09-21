@@ -23,6 +23,7 @@
 
 - [**POC Web Scraper**](https://github.com/IbrahimBenHariz/POC-Web-Scraper)
 - [**Cybersecurity Lab**](https://github.com/IbrahimBenHariz/Cybersecurity-Lab)
+- [**Raspberry PiKali**](https://github.com/IbrahimBenHariz/Raspberry-PiKali)
 
 ## My Tools <img alt="My Tools Icon" width="38px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/MyTools.png"/>
 
