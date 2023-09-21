@@ -28,7 +28,7 @@
 
 - [**WEBEDEx**](https://github.com/IbrahimBenHariz/WEBEDEx)
 
-## Various Projects <img alt="Various Projects Icon" width="40px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/VariousProjects.png"/>
+## Interests <img alt="Various Projects Icon" width="40px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/VariousProjects.png"/>
 
 - **Design & Branding**
   - [Dribbble](https://dribbble.com/IbrahimBenHariz)
