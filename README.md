@@ -1,5 +1,3 @@
-# ! UNDER CONSTRUCTION ... !
-
 <img alt="My banner GIF" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/MyBannerGIF.gif"/>
 
 # *Hi, I'm Ibrahim* <img alt="Hello Icon" width="60px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/Hello.png"/> </br> *5G Network Security Engineer Intern for Ericsson !* [<img alt="LinkedIn" width="35px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/LinkedInIcon.svg"/>][linkedin]
@@ -10,14 +8,16 @@
 
 ## Courses & Certifications <img alt="Courses & Certifications Icon" width="35px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/Courses%26Certifications.png"/>
 
+- [**CompTIA Security +**](https://github.com/IbrahimBenHariz/CertificationsFiles/blob/main/CompTIASecurity%2BCert.pdf)
+  - [Credly](https://www.credly.com/badges/e7e6b337-e20d-45fb-bfd4-60d24dabe006/public_url)
+  - [CompTIA](http://verify.comptia.org/)
 - [**Google Cybersecurity**](https://github.com/IbrahimBenHariz/CertificationsFiles/blob/main/GoogleCyber.pdf)
-  - [Credly](https://www.credly.com/badges/bfab8e60-5006-4268-b879-2e7234998c4b/linked_in_profile)
+  - [Credly](https://www.credly.com/badges/bfab8e60-5006-4268-b879-2e7234998c4b/public_url)
   - [Coursera](https://www.coursera.org/account/accomplishments/professional-cert/LS32C3P8PSDD)
 - [**(ISC)² CC**](https://github.com/IbrahimBenHariz/CertificationsFiles/blob/main/ISC%C2%B2%20CC.pdf)
-  - [Credly](https://www.credly.com/badges/b7c453e6-d384-42e4-927e-48b4b27b173f/linked_in_profile)
+  - [Credly](https://www.credly.com/badges/b7c453e6-d384-42e4-927e-48b4b27b173f/public_url)
   - [(ISC)²](https://my.isc2.org/s/MemberVerification)
 - [**Blue Team Junior Analyst**](https://github.com/IbrahimBenHariz/CertificationsFiles/blob/main/Blue%20Team%20Junior%20Analyst%20Pathway%20Bundle-btja.pdf)
-- [**TryHackMe Top 5%**](https://tryhackme.com/p/IbrahimBenHariz)
 
 ## Cybersecurity Projects <img alt="Cybersecurity Projects Icon" width="38px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/CybersecurityProjects.png"/> 
 
