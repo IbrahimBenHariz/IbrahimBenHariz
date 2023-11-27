@@ -1,6 +1,6 @@
 <img alt="My banner GIF" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/MyBannerGIF.gif"/>
 
-# *Hi, I'm Ibrahim* <img alt="Hello Icon" width="60px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/Hello.png"/> </br> *5G Network Security Engineer Intern for Ericsson !* [<img alt="LinkedIn" width="35px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/LinkedInIcon.svg"/>][linkedin]
+# *Hi, I'm Ibrahim* <img alt="Hello Icon" width="60px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/Hello.png"/> </br> *Solution Architect for Ericsson !* [<img alt="LinkedIn" width="35px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/LinkedInIcon.svg"/>][linkedin]
 
 > *"Make waves in your field ! Dare to differ, excel and shine !"*
 
@@ -8,7 +8,10 @@
 
 ## Courses & Certifications <img alt="Courses & Certifications Icon" width="35px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/Courses%26Certifications.png"/>
 
-- [**CompTIA Security +**](https://github.com/IbrahimBenHariz/CertificationsFiles/blob/main/CompTIASecurity%2BCert.pdf)
+- [**CompTIA PenTest+**](https://github.com/IbrahimBenHariz/CertificationsFiles/blob/main/CompTIA%20PenTest%2B.pdf)
+  - [Credly](https://www.credly.com/badges/c0a232e2-0c88-43f8-8757-0ed96cc4afc3/public_url)
+  - [CompTIA](http://verify.comptia.org/)
+- [**CompTIA Security+**](https://github.com/IbrahimBenHariz/CertificationsFiles/blob/main/CompTIASecurity%2BCert.pdf)
   - [Credly](https://www.credly.com/badges/e7e6b337-e20d-45fb-bfd4-60d24dabe006/public_url)
   - [CompTIA](http://verify.comptia.org/)
 - [**Google Cybersecurity**](https://github.com/IbrahimBenHariz/CertificationsFiles/blob/main/GoogleCyber.pdf)
