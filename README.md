@@ -34,11 +34,6 @@
 - **Design & Branding**
   - [Dribbble](https://dribbble.com/IbrahimBenHariz)
 
-## Resume & Motivation <img alt="Resume & Motivation Icon" width="40px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/Resume%26Motivation.png"/>
-
-- [######################################](https://github.com/IbrahimBenHariz)
-- [######################################](https://github.com/IbrahimBenHariz)
-
 ## Reach Out To Me <img alt="Contact Icon" width="40px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/ReachOutToMe.png"/>
 
 [<img alt="LinkedIn" align="left" width="45px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/LinkedInIcon.svg"/>][linkedin]
