@@ -1,9 +1,6 @@
 <img alt="My banner GIF" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/MyBannerGIF.gif"/>
 
-# *Hi, I'm Ibrahim* <img alt="Hello Icon" width="60px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/Hello.png"/> </br> *Solution Architect for Ericsson !* [<img alt="LinkedIn" width="35px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/LinkedInIcon.svg"/>][linkedin]
-
-> *"Make waves in your field ! Dare to differ, excel and shine !"*
-
+# *Hi, I'm Ibrahim* <img alt="Hello Icon" width="60px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/Hello.png"/>
 ---
 
 ## Courses & Certifications <img alt="Courses & Certifications Icon" width="35px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/Courses%26Certifications.png"/>
