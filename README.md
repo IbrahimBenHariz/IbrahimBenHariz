@@ -3,6 +3,8 @@
 <h1 align="center">
   Hi, I'm Ibrahim
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <br/>
+  Cybersecurity Enthusiast 💻
 </h1>
 
 [<img alt="LinkedIn" align="left" width="35px" src="https://github.com/IbrahimBenHariz/IbrahimBenHariz/blob/main/PortfolioResources/LinkedInIcon.svg"/>][linkedin]
